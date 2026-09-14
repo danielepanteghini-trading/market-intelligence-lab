@@ -1,0 +1,6 @@
+event_id,event_time_utc,category,title,status
+1,2025-04-09T17:18:00Z,trade_policy,US tariff pause announcement,needs_timestamp_verification
+2,2026-03-23T00:00:00Z,geopolitics,US statement concerning Iran talks,needs_timestamp_verification
+3,2026-04-01T00:00:00Z,geopolitics,Oil-market ceasefire-related announcement,needs_timestamp_verification
+4,2025-01-29T19:00:00Z,monetary_policy,FOMC rate decision,needs_timestamp_verification
+5,2025-03-19T18:00:00Z,monetary_policy,FOMC rate decision,needs_timestamp_verification
