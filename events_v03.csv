@@ -1,0 +1,3 @@
+event_id,event_time_utc,category,title,assets,status
+E001,2025-04-09T17:18:00Z,trade_policy,Trump announces 90-day pause on most reciprocal tariffs,SPY;QQQ;XLE;GLD;TLT,verified_seed
+E002,2025-06-13T00:00:00Z,geopolitics,Israel strikes Iran nuclear and military targets,XLE;GLD;SPY;QQQ;TLT,date_only_exclude_from_minute_test
