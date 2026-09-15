@@ -1,0 +1,5 @@
+event_id,event_time_utc,category,title,assets,status,source_note,session
+E001,2025-04-09T13:37:00Z,political_statement,"Trump posts ""THIS IS A GREAT TIME TO BUY!!!""",SPY;QQQ;XLE;GLD;TLT,verified,Truth Social archive,market_hours
+E002,2025-04-09T17:18:00Z,trade_policy,Trump announces 90-day pause on most reciprocal tariffs,SPY;QQQ;XLE;GLD;TLT,verified,Truth Social archive,market_hours
+E003,2025-06-23T20:02:00Z,geopolitics,"Trump posts ""CONGRATULATIONS WORLD, IT’S TIME FOR PEACE!""",SPY;QQQ;XLE;GLD;TLT,verified,Truth Social archive,after_hours
+E004,2025-06-23T22:02:00Z,geopolitics,Trump announces Israel-Iran complete and total ceasefire,SPY;QQQ;XLE;GLD;TLT,verified,Truth Social archive,after_hours
